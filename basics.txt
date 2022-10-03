@@ -1,0 +1,10 @@
+                                OBJECT ORIENTED PROGRAMMING
+
+-> Emphasis on data rather than procedure.
+-> Data is hidden and cannot be accessed by external functions.
+
+Pillars of OOPS :
+a)
+b)
+c)
+d)
